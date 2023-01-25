@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: Laurafdez/vnf-img
+  repository: laurafdez/vnf-img
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
